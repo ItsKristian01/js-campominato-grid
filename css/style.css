@@ -22,6 +22,16 @@
 .navbar {
     height: 10vh;
     background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    align-self: self-end;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding: .5rem;
+    width: 10%;
 }
 
 .grid {
@@ -30,6 +40,7 @@
     width: 60%;
     margin: 0 auto;
     padding: 2rem;
+    display: none;
 }
 
 .col {
