@@ -37,9 +37,9 @@
 .grid {
     display: flex;
     flex-wrap: wrap;
-    width: 60%;
+    width: 600px;
     margin: 0 auto;
-    padding: 5rem;
+    padding: 3rem;
 }
 
 
@@ -67,6 +67,10 @@
 
   .text {
     padding: 1rem;
+  }
+
+  .color {
+    background-color: rgb(31, 173, 255);
   }
 
  
