@@ -5,10 +5,14 @@
     box-sizing: border-box;
 }
 
+.img {
+    max-width: 100%;
+}
+
 
 .wrapper {
     width: 100%;
-    height: 85vh;
+    height: 82vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,9 +43,18 @@
 
 .footer {
     background: white;
-    height: 5vh;
+    height: 8vh;
+    padding: .6rem;
+    margin: .6rem;
   }
   
+  /* DECORATIONS */
+
+  .text {
+    padding: 1rem;
+  }
+
+ 
 
 
 
