@@ -8,7 +8,7 @@
 
 .wrapper {
     width: 100%;
-    height: 100vh;
+    height: 85vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,7 +16,7 @@
 }
 
 .navbar {
-    height: 15vh;
+    height: 10vh;
     background-color: white;
 }
 
@@ -25,6 +25,7 @@
     flex-wrap: wrap;
     width: 60%;
     margin: 0 auto;
+    padding: 2rem;
 }
 
 .col {
@@ -36,7 +37,10 @@
     align-items: center;
 }
 
- 
+.footer {
+    background: white;
+    height: 5vh;
+  }
   
 
 
