@@ -39,7 +39,11 @@
     flex-wrap: wrap;
     width: 60%;
     margin: 0 auto;
-    padding: 2rem;
+    padding: 5rem;
+}
+
+
+.remove {
     display: none;
 }
 
